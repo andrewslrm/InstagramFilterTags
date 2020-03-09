@@ -25,7 +25,7 @@ const fetchMedia = async () => {
 
 ### Filter multiple media posts with tags
 
-- The ***accountId** is not the user name, the accountId is a number and get in [https://codeofaninja.com/tools/find-instagram-user-id](https://codeofaninja.com/tools/find-instagram-user-id).
+- The **accountId** is not the user name, the accountId is a number and get in [https://codeofaninja.com/tools/find-instagram-user-id](https://codeofaninja.com/tools/find-instagram-user-id).
 - The **listTags** is a string array with the hashtag to search, the character # is required in the tags
  
 
